@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jonatas.silva\\Documents\\PaymentContext\\PaymentContext.Tests\\PaymentContext.Tests.csproj": {}
+    "C:\\Users\\jonatas.silva\\Documents\\Projetos Pessoais\\PaymentContext\\PaymentContext.Tests\\PaymentContext.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jonatas.silva\\Documents\\PaymentContext\\PaymentContext.Domain\\PaymentContext.Domain.csproj": {
+    "C:\\Users\\jonatas.silva\\Documents\\Projetos Pessoais\\PaymentContext\\PaymentContext.Domain\\PaymentContext.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jonatas.silva\\Documents\\PaymentContext\\PaymentContext.Domain\\PaymentContext.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\jonatas.silva\\Documents\\Projetos Pessoais\\PaymentContext\\PaymentContext.Domain\\PaymentContext.Domain.csproj",
         "projectName": "PaymentContext.Domain",
-        "projectPath": "C:\\Users\\jonatas.silva\\Documents\\PaymentContext\\PaymentContext.Domain\\PaymentContext.Domain.csproj",
+        "projectPath": "C:\\Users\\jonatas.silva\\Documents\\Projetos Pessoais\\PaymentContext\\PaymentContext.Domain\\PaymentContext.Domain.csproj",
         "packagesPath": "C:\\Users\\jonatas.silva\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jonatas.silva\\Documents\\PaymentContext\\PaymentContext.Domain\\obj\\",
+        "outputPath": "C:\\Users\\jonatas.silva\\Documents\\Projetos Pessoais\\PaymentContext\\PaymentContext.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -30,8 +30,8 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "C:\\Users\\jonatas.silva\\Documents\\PaymentContext\\PaymentContext.Shared\\PaymentContext.Shared.csproj": {
-                "projectPath": "C:\\Users\\jonatas.silva\\Documents\\PaymentContext\\PaymentContext.Shared\\PaymentContext.Shared.csproj"
+              "C:\\Users\\jonatas.silva\\Documents\\Projetos Pessoais\\PaymentContext\\PaymentContext.Shared\\PaymentContext.Shared.csproj": {
+                "projectPath": "C:\\Users\\jonatas.silva\\Documents\\Projetos Pessoais\\PaymentContext\\PaymentContext.Shared\\PaymentContext.Shared.csproj"
               }
             }
           }
@@ -70,14 +70,14 @@
         }
       }
     },
-    "C:\\Users\\jonatas.silva\\Documents\\PaymentContext\\PaymentContext.Shared\\PaymentContext.Shared.csproj": {
+    "C:\\Users\\jonatas.silva\\Documents\\Projetos Pessoais\\PaymentContext\\PaymentContext.Shared\\PaymentContext.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jonatas.silva\\Documents\\PaymentContext\\PaymentContext.Shared\\PaymentContext.Shared.csproj",
+        "projectUniqueName": "C:\\Users\\jonatas.silva\\Documents\\Projetos Pessoais\\PaymentContext\\PaymentContext.Shared\\PaymentContext.Shared.csproj",
         "projectName": "PaymentContext.Shared",
-        "projectPath": "C:\\Users\\jonatas.silva\\Documents\\PaymentContext\\PaymentContext.Shared\\PaymentContext.Shared.csproj",
+        "projectPath": "C:\\Users\\jonatas.silva\\Documents\\Projetos Pessoais\\PaymentContext\\PaymentContext.Shared\\PaymentContext.Shared.csproj",
         "packagesPath": "C:\\Users\\jonatas.silva\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jonatas.silva\\Documents\\PaymentContext\\PaymentContext.Shared\\obj\\",
+        "outputPath": "C:\\Users\\jonatas.silva\\Documents\\Projetos Pessoais\\PaymentContext\\PaymentContext.Shared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -132,14 +132,14 @@
         }
       }
     },
-    "C:\\Users\\jonatas.silva\\Documents\\PaymentContext\\PaymentContext.Tests\\PaymentContext.Tests.csproj": {
+    "C:\\Users\\jonatas.silva\\Documents\\Projetos Pessoais\\PaymentContext\\PaymentContext.Tests\\PaymentContext.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jonatas.silva\\Documents\\PaymentContext\\PaymentContext.Tests\\PaymentContext.Tests.csproj",
+        "projectUniqueName": "C:\\Users\\jonatas.silva\\Documents\\Projetos Pessoais\\PaymentContext\\PaymentContext.Tests\\PaymentContext.Tests.csproj",
         "projectName": "PaymentContext.Tests",
-        "projectPath": "C:\\Users\\jonatas.silva\\Documents\\PaymentContext\\PaymentContext.Tests\\PaymentContext.Tests.csproj",
+        "projectPath": "C:\\Users\\jonatas.silva\\Documents\\Projetos Pessoais\\PaymentContext\\PaymentContext.Tests\\PaymentContext.Tests.csproj",
         "packagesPath": "C:\\Users\\jonatas.silva\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jonatas.silva\\Documents\\PaymentContext\\PaymentContext.Tests\\obj\\",
+        "outputPath": "C:\\Users\\jonatas.silva\\Documents\\Projetos Pessoais\\PaymentContext\\PaymentContext.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -158,11 +158,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\jonatas.silva\\Documents\\PaymentContext\\PaymentContext.Domain\\PaymentContext.Domain.csproj": {
-                "projectPath": "C:\\Users\\jonatas.silva\\Documents\\PaymentContext\\PaymentContext.Domain\\PaymentContext.Domain.csproj"
+              "C:\\Users\\jonatas.silva\\Documents\\Projetos Pessoais\\PaymentContext\\PaymentContext.Domain\\PaymentContext.Domain.csproj": {
+                "projectPath": "C:\\Users\\jonatas.silva\\Documents\\Projetos Pessoais\\PaymentContext\\PaymentContext.Domain\\PaymentContext.Domain.csproj"
               },
-              "C:\\Users\\jonatas.silva\\Documents\\PaymentContext\\PaymentContext.Shared\\PaymentContext.Shared.csproj": {
-                "projectPath": "C:\\Users\\jonatas.silva\\Documents\\PaymentContext\\PaymentContext.Shared\\PaymentContext.Shared.csproj"
+              "C:\\Users\\jonatas.silva\\Documents\\Projetos Pessoais\\PaymentContext\\PaymentContext.Shared\\PaymentContext.Shared.csproj": {
+                "projectPath": "C:\\Users\\jonatas.silva\\Documents\\Projetos Pessoais\\PaymentContext\\PaymentContext.Shared\\PaymentContext.Shared.csproj"
               }
             }
           }
@@ -194,7 +194,7 @@
             },
             "flunt": {
               "target": "Package",
-              "version": "[*, )"
+              "version": "[1.0.4, )"
             }
           },
           "imports": [
