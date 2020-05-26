@@ -7,9 +7,11 @@ using PaymentContext.Domain.Handlers;
 using PaymentContext.Domain.ValueObjects;
 using PaymentContext.Tests.Mocks;
 
-namespace PaymentContext.Tests{
+namespace PaymentContext.Tests
+{
   [TestClass]
-  public class SubscriptionHandlerTests {
+  public class SubscriptionHandlerTests
+  {
     [TestMethod]
     public void ShouldReturnErrorWhenDocumentExists()
     {
